@@ -1,0 +1,3 @@
+permalink: :section
+plugins:
+  - jekyll-redirect-from
